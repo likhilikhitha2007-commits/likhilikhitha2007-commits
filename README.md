@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋, I'm Likhitha!
 
-<!--
-**likhilikhitha2007-commits/likhilikhitha2007-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student interested in Cybersecurity
 
-Here are some ideas to get you started:
+💻 Learning programming and computer science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Python
+- Java
+- C Programming
+- Linux
+- Computer Networking
+- Cybersecurity Fundamentals
+
+### 🛠️ Skills
+- Programming: C, Java, Python
+- Tools: Git, GitHub
+- Operating Systems: Windows, Linux
+
+### 🎯 Goals
+- Improve my programming skills
+- Learn ethical hacking and network security
+- Build real-world projects
+
+### 📫 Connect with me
+- GitHub: @likhilikhitha2007-commits
+
+---
+⭐ Thanks for visiting my profile!
+
