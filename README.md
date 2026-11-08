@@ -43,3 +43,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=likhilikhitha2007-commits&show_icons=true&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=likhilikhitha2007-commits&layout=compact&theme=tokyonight)
+
